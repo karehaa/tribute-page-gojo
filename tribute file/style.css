@@ -1,0 +1,57 @@
+body {
+    background-color: #49155b;
+}
+
+/* Name Title Start */
+.title-container {
+    text-align: center;
+    color: white;
+}
+
+.name {
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+    padding-bottom: 0px;
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+
+.title {
+    font-weight: lighter;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-variant: small-caps;
+    padding-top: 0px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+/* Name Title End */
+
+/* Quote Start */
+.main-container {
+    background-color: white;
+    height: 500px;
+    width: auto;
+    margin: -8px;
+}
+
+.image {
+    float: right;
+    height: 25rem;
+    width: auto;
+    padding-top: 5%;
+    padding-right: 5%;
+}
+
+.quote {
+    font-size: 35px;
+    padding-top: 12%;
+    padding-left: 5%;
+    position: absolute;
+}
+/* Quote End */
+
+/* Biography Start */
+
+/* Biography End */
